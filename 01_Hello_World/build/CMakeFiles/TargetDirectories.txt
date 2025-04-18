@@ -1,3 +1,0 @@
-/home/diegol1400/Projects/CMake/CMake_Course/01_Hello_World/build/CMakeFiles/EXECUTABLE.dir
-/home/diegol1400/Projects/CMake/CMake_Course/01_Hello_World/build/CMakeFiles/edit_cache.dir
-/home/diegol1400/Projects/CMake/CMake_Course/01_Hello_World/build/CMakeFiles/rebuild_cache.dir
